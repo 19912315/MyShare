@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>258B048E-A94C-4EFB-9A85-90CC65DCE54D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CCTracker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>78DD3CA5F16EECA79BF7F3C7430DE0E6EB65C0EF</key>
+		<string>https://github.com/19912315/MyShare.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CC27日9——44picker位置修复版副本 2/CCTracker.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>78DD3CA5F16EECA79BF7F3C7430DE0E6EB65C0EF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/19912315/MyShare.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>78DD3CA5F16EECA79BF7F3C7430DE0E6EB65C0EF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>78DD3CA5F16EECA79BF7F3C7430DE0E6EB65C0EF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyShare</string>
+		</dict>
+	</array>
+</dict>
+</plist>
